@@ -1,6 +1,10 @@
 ## Hi there 👋
 --> Undergraduate student, 19 year old, from India. 
+
+
 --> Loves physics, motorcycles and photography.
+
+
 --> Learning to code and that's it.
 
 
