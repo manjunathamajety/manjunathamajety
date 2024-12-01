@@ -1,4 +1,8 @@
 ## Hi there 👋
+--> Undergraduate student, 19 year old, from India. 
+--> Loves physics, motorcycles and photography.
+--> Learning to code and that's it.
+
 
 <!--
 **manjunathamajety/manjunathamajety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
